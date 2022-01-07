@@ -2,4 +2,4 @@
 
 This repository contains code and report for FDS project.
 
-Dataset: (Stroke Dataset)[https://www.kaggle.com/fedesoriano/stroke-prediction-dataset]
+Dataset: [Stroke Dataset](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)
